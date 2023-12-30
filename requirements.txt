@@ -1,5 +1,4 @@
 nltk 
-vader_lexicon
 numpy
 python-binance
 requests
